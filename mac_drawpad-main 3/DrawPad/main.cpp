@@ -7,6 +7,7 @@ void DrawMain()
 
     DrawCircle(0,0,30,kColorRed);
     DrawTriangle(40,30,50,50,30,30,kColorGreen);
+    DrawCircle(40,40,50,kColorYellow);
 
 }
 
